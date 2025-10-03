@@ -68,4 +68,6 @@ public class CandyBarTest {
 
 		return contador;
 	}
+
+//	Modificaciones.
 }
