@@ -11,7 +11,7 @@ public class CandyBarTest {
     private Snack palomitas;
     private Bebida refresco;
 
-//  Se ejecuta antes de cada test para inicializar el objeto CandyBar
+//  Se ejecuta antes de cada test para inicializar el objeto CandyBar.
     @Before
 	public void setUp() {
 		this.candyBar = new CandyBar(5); // Capacidad para 5 productos
